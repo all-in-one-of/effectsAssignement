@@ -1,0 +1,1 @@
+Simulations using openCL mode on a Quadro K4000. For the snow I converted particles to a Volume using Volume Rasterize Points and rendered in Mantra with a Volume Shader, I used default grains and clay shader for sand.
